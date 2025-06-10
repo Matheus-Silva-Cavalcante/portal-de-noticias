@@ -8,7 +8,7 @@
     }
 
     /* nesting css */
-    & div:nth-child(2){
+    div:nth-child(2){
         margin-inline: auto;
     }
 
